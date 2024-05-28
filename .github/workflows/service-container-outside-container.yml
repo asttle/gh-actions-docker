@@ -1,4 +1,4 @@
-name: Deployment (Container)
+name: service-container-outside-container
 on:
   push:
     branches:
